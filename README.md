@@ -3,7 +3,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=663399&height=120&section=header" style="border: 2px solid #fff; border-radius: 10px; margin-bottom: 20px;"/>
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=663399&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Walleska+Lima;I'm+22+years+old;I'm+from+São+Paulo,+SP;I+study+Systems+Analysis+and+Development+at+SpTech;Welcome!+:%29" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=663399&size=35&center=true&vCenter=true&width=1000&lines=Oiee!+Eu+sou+a+Walleska+Lima;Tenho+22+anos;Sou+de+São+Paulo,+SP;Sou+estudante+de+Análise+e+Desenvolvimento+de+Sistemas+na+São+Paulo+Tech+School;Bem Vindo(a)!+:%29" alt="Typing SVG"/>
   </p>
 
 </div>

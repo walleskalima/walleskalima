@@ -15,9 +15,9 @@
 </div>
 
 <div align="center" style="margin-top: 20px; display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img width="32%" height="195px" src="https://github-readme-stats.vercel.app/api?username=walleskaflima&show_icons=true&count_private=true&hide_border=true&title_color=663399&icon_color=663399&text_color=c9d1d9&bg_color=0d1117" alt="Walleska Lima's GitHub Stats" /> 
-  <img width="32%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walleskaflima&layout=compact&hide_border=true&title_color=663399&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="32%" src="https://github-profile-trophy.vercel.app/?username=walleskaflima&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img width="32%" height="195px" src="https://github-readme-stats.vercel.app/api?username=walleskalima&show_icons=true&count_private=true&hide_border=true&title_color=663399&icon_color=663399&text_color=c9d1d9&bg_color=0d1117" alt="Walleska Lima's GitHub Stats" /> 
+  <img width="32%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walleskalima&layout=compact&hide_border=true&title_color=663399&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="32%" src="https://github-profile-trophy.vercel.app/?username=walleskalima&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 
